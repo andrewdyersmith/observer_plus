@@ -1,6 +1,6 @@
 = observer_plus
 
-* FIX (url)
+* http://github.com/andrewdyersmith/observer_plus
 
 == DESCRIPTION:
 

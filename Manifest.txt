@@ -1,0 +1,8 @@
+.autotest
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+bin/observer_plus
+lib/observer_plus.rb
+test/test_observer_plus.rb
